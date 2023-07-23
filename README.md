@@ -1,1 +1,3 @@
 # web_scrapper
+
+The web scraping project focuses on extracting product information from the Amazon website using Python. It utilizes the Beautiful Soup library to parse the web data presented in XML or HTML format, allowing the scraper to extract relevant data elements. The Requests library facilitates the fetching of web pages, while Pandas is employed to organize and structure the scraped data in a tabular format for further analysis or storage. This project enables users to collect valuable product data from Amazon for various purposes, such as price comparison, market analysis, or data-driven decision-making.
